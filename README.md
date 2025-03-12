@@ -1,50 +1,51 @@
-Student Management System
+# 🎓 Student Management System
 
-Overview
+---
 
-This is a Student Management System implemented in C++ using Object-Oriented Programming (OOP) principles. The system allows users to perform CRUD operations on student records, including adding, displaying, searching, updating, and deleting student details.
+## 📌 Overview
+This is a **Student Management System** implemented in **C++ using Object-Oriented Programming (OOP)** principles. The system allows users to perform CRUD operations on student records, including adding, displaying, searching, updating, and deleting student details.
 
-Features
+---
 
-Add New Student: Register a new student with Roll No, Name, and Age.
+## 🚀 Features
+- ✅ **Add New Student**: Register a new student with Roll No, Name, and Age.
+- 📋 **Display All Students**: View all registered student records.
+- 🔍 **Search Student**: Find a student by Roll No.
+- ✏️ **Update Student**: Modify student details such as Roll No, Name, or Age.
+- ❌ **Delete Student**: Remove a student record.
+- 🔚 **Exit**: Close the application.
 
-Display All Students: View all registered student records.
+---
 
-Search Student: Find a student by Roll No.
-
-Update Student: Modify student details such as Roll No, Name, or Age.
-
-Delete Student: Remove a student record.
-
-Exit: Close the application.
-
-Installation
-
-Clone the Repository
-
+## 🛠 Installation
+### 📥 Clone the Repository
+```sh
 git clone <repository-url>
 cd student-management-system
+```
 
-Compile the Code (Using g++)
-
+### ⚙️ Compile the Code (Using g++)
+```sh
 g++ student_management.cpp -o student_management
+```
 
-Run the Program
-
+### ▶️ Run the Program
+```sh
 ./student_management
+```
 
-Usage
+---
 
-Run the program and select an option from the menu.
+## 📖 Usage
+1. Run the program and select an option from the menu.
+2. Follow the prompts to enter student details.
+3. Use the search, update, and delete features as needed.
+4. Exit the program when finished.
 
-Follow the prompts to enter student details.
+---
 
-Use the search, update, and delete features as needed.
-
-Exit the program when finished.
-
-Example Menu
-
+## 📜 Example Menu
+```
 --------------------------------
 *** Student Management System ***
 --------------------------------
@@ -55,12 +56,21 @@ Example Menu
 5. Delete Student
 6. Exit
 Enter Your Choice:
+```
 
-Contributing
+---
 
-Contributions are welcome! Feel free to fork the repository, make improvements, and submit a pull request.
+## 🤝 Contributing
+Contributions are welcome! Feel free to **fork** the repository, make improvements, and submit a **pull request**.
 
-License
+---
 
-This project is open-source and available under the MIT License.
+## 📜 License
+This project is **open-source** and available under the **MIT License**.
+
+---
+
+## 👨‍💻 Author
+**Abhishek Sharma**  
+🔗 **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
 
