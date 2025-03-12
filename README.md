@@ -70,7 +70,3 @@ This project is **open-source** and available under the **MIT License**.
 
 ---
 
-## 👨‍💻 Author
-**Abhishek Sharma**  
-🔗 **GitHub**: [Your GitHub Profile](https://github.com/your-profile)
-
